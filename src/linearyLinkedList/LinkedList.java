@@ -8,6 +8,7 @@ public class LinkedList {
         LeLinked a = new LeLinked();
         a.data = data;
 
+
         //IndexOutOfBoundsException
         if (firstElement == null){
             firstElement = a;
