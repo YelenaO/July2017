@@ -12,7 +12,7 @@ public class Main {
         m.addBack(1);
         m.addBack(2);
         m.addAnywhere(2, 333);
-        m.addAnywhere(70, 733);//nullPEx
+        m.addAnywhere(70, 855);//nullPEx
 
         m.printList();
         System.out.println();
