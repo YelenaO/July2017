@@ -11,7 +11,7 @@ public class Main {
         m.addFront(0);
         m.addBack(1);
         m.addBack(2);
-        m.addAnywhere(2, 333);
+        m.addAnywhere(2, 733);
         m.addAnywhere(70, 855);//nullPEx
 
         m.printList();
